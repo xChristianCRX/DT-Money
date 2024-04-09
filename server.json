@@ -23,6 +23,14 @@
             "category":"Educação",
             "price":30,
             "createdAt":"2024-04-01T21:10:43.536Z"
+        },
+        {
+            "id":4,
+            "description":"Mesa",
+            "type":"outcome",
+            "category":"Gasto",
+            "price":100,
+            "createdAt":"2024-04-01T21:10:43.536Z"
         }
     ]
 }
